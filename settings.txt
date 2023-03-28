@@ -1,0 +1,16 @@
+{"site_url":"http://localhost:8000",
+"site_title": "Denys Buhrov: Python developer",
+"description": "Denys Buhrov - portfolio, resume and blog Python Developer",
+"keywords": "Web-development with Python, back-end with Django and Flask",
+"name": "Denys Buhrov",
+"tag1":"Developer",
+"tag2":"by Python",
+"sect1":"Home",
+"sect2":"Resume",
+"sect3":"Portfolio",
+"sect4":"Blog",
+"sect5":"Contacts",
+"telegram":"https://t.me/rollitype",
+"email":"mailto:denys.buhrov@gmail.com",
+"city":"Warszawa"
+}
